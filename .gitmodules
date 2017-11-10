@@ -1,0 +1,3 @@
+[submodule "kraken-api-client"]
+	path = kraken-api-client
+	url = https://github.com/payward/kraken-api-client
